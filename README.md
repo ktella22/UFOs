@@ -4,9 +4,12 @@ The purpose of this Module challenge is to provide a more in-depth analysis of U
 
 ## Results
 In the privous webpage in the module, it only included the datetime filter where users added the date and clicked on the filter button for the filtered data to be applied. In the updated webpage, users could simply input the search criteria in one of the filter fields and the webpage will automatically update and display the filtered data as the results. The first screenshot shows the table on the webpage that has not been filtered yet. There are so many type of format and filter field where the filter can be input for the filter to function. 
+
 <img width="1548" alt="No filter image" src="https://user-images.githubusercontent.com/92502292/149682909-bee53192-7973-4a38-8d98-91c60aab51b4.PNG">
 
+
 In the second screenshot, san diego is city is entered in the text box in the City filter field. Upon the city input, the table updated the webpage automatically and showed the filtered data which is relavent to san diego city as a result. 
+
 <img width="1560" alt="Image" src="https://user-images.githubusercontent.com/92502292/149682920-581cd10d-7a17-4105-8109-42a3a6e7a615.PNG">
 
 ## Summary 
